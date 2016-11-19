@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Ryosuke Tanno</title>
+    <link href="css/bootstrap.min.css" rel="stylesheet" media="screen">
+    <link href="css/style.css" rel="stylesheet">
+    <link href='http://fonts.googleapis.com/css?family=Roboto:400,300,500' rel='stylesheet' type='text/css'>
+<!--     <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-71042825-1', 'auto');
+      ga('send', 'pageview');
+
+    </script> -->
+  </head>
+
+
+
+  <body onload="start()">
+
+    <div id="header" class="bg2">
+      <div id="headerblob">
+	<img src="./img/final0.jpg" class="img-circle imgme" width="200px">
+	<div id="headertext">
+	  <div id="htname">Ryosuke Tanno</div>
+	  <div id="htdesc">Master Student, The University of Electro-Communications</div>
+	  <div id="htem">hogehoge_at_ gmail.com</div>
+	  <div id="icons">
+            <div class="svgico">
+              <a href="https://github.com/negi111111"><img src="./img/octocat.svg" width="56px"></a>
+	    </div>
+	    <div class="svgico">
+              <a href="https://github.com/negi111111"><img src="./img/gscholar.svg" width="50px"></a>
+            </div>
+	  </div>
+	</div>
+      </div>
+    </div>
+
+    <div class="container">
+      <div id="timeline">
+	<div class="timelineitem">
+	  <div class="tdate">08/2016</div>
+	  <div class="ttitle">Beijing University of Posts and Telecommunications: Visiting Student</div>
+    <div class="tdesc">Theme: <span class="thigh">Object Detection, Image Recognition, Robotics</span></div>
+	</div>
+	<div class="timelineitem">
+	  <div class="tdate">2016 - Present</div>
+	  <div class="ttitle">The University of Electro-Communications: Master Student</div>
+	  <div class="tdesc">Theme: <span class="thigh">Deep Learning,iOS, Image Recognition, Neural Style Transfer</span></div>
+	</div>
+	<div class="timelineitem">
+	  <div class="tdate">2012 - 2016</div>
+	  <div class="ttitle">The University of Electro-Communications</div>
+	  <div class="tdesc">Thesis: Implementation and Comparative Analysis of Image Recognition System based on Deep Learning on Mobile OS</div>
+	</div>
+      </div>
+    </div>
+
+    <div class="container" style="font-size:18px; font-weight:300;margin-top:50px;margin-bottom:50px;">
+      <b>Bio</b>:</br> I am a 1st year Master Student in the <a href="http://www.uec.ac.jp/education/graduate/j/index.html">Graduate School of Information Science and Technology</a> at <a href="http://www.uec.ac.jp/">The University of Electro-Communications</a>. I am with the <a href="http://mm.cs.uec.ac.jp/">Yanai Lab</a> under the supervision of Prof. <a href="http://acc.cs.uec.ac.jp/yanai/index.html">Keiji Yanai</a>. My research interests are in the fields of computer vision and machine learning, with a focus on <span class="thigh">Deep Learning</span> and <span class="thigh">Image Recognition</span> and <apan class="thigh"> Neural Style Transfer</apan>.
+      <br><br>
+      <b>Main Research Interests</b>: <span class="thigh">Mobile Application based on Deep Learning</span>
+<br>(e.g. Real-Time Image Recognition, Neural Style Transfer)
+      <br>
+      <br>
+      <b>Sub Research Interests</b>:</br> hogehoge
+      <br><br>
+</br>
+
+    </div>
+
+
+
+
+    <hr class="soft">
+    <div class="container">
+      <h2>Publications</h2>
+
+      <div id="pubs">
+	<div class="pubwrap">
+	  <div class="row">
+            <div class="col-md-6">
+              <div class="pubimg">
+		<img src="pub/acmmm/acmmm_img/icon.jpg">
+              </div>
+            </div>
+            <div class="col-md-6">
+              <div class="pub">
+		<div class="pubt">Efficient Mobile Implementation of <br>A CNN-based Object Recognition System</div>
+		<div class="pubd">
+    In this paper, we examine CNN architectures which are suitable for mobile implementation, and propose multi-scale network-in-networks (NIN) in which users can adjust the trade-off between recognition time and accuracy. We implemented multi-threaded mobile applications on both iOS and Android employing either NEON SIMD instructions or the BLAS library for fast computation of convolutional layers, and compared them in terms of recognition time on mobile devices. As results, it has been revealed that BLAS is better for iOS, while NEON is better for Android, and that reducing the size of an input image by resizing is very effective for speedup of CNN-based recognition.
+		</div>
+		<div class="puba">Yanai Keiji, <strong>Ryosuke Tanno</strong>, Koichi Okamoto</div>
+		<div class="pubv">ACMMM 2016<b>(short paper)</b></div>
+		<div class="publ">
+		  <ul>
+                    <li><a href="pub/acmmm/acmmm_pdf.pdf">PDF</a></li>
+                    <li><a href="pub/acmmm/acmmm_poster.pdf">Poster</a></li>
+
+		  </ul>
+		</div>
+
+              </div>
+            </div>
+	  </div>
+	</div>
+
+	  <!-- place js at end for faster loading -->
+	  <script src="jquery-1.11.1.min.js"></script>
+	  <script src="js/bootstrap.min.js"></script>
+
+  </body>
+</html>
