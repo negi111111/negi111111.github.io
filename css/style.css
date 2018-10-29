@@ -1,7 +1,9 @@
-
-html, body {
+html,
+body {
   height: 100%;
-  font-family: 游ゴシック体, 'Yu Gothic', YuGothic, 'ヒラギノ角ゴシック Pro', 'Hiragino Kaku Gothic Pro', メイリオ, Meiryo, Osaka, 'ＭＳ Ｐゴシック', 'MS PGothic', sans-serif;
+  font-family: 游ゴシック体, "Yu Gothic", YuGothic, "ヒラギノ角ゴシック Pro",
+    "Hiragino Kaku Gothic Pro", メイリオ, Meiryo, Osaka, "ＭＳ Ｐゴシック",
+    "MS PGothic", sans-serif;
   color: #444;
 }
 #header {
@@ -12,14 +14,14 @@ html, body {
   margin-bottom: 40px;
 }
 .bg1 {
-  background-image: url('pic.jpg');
+  background-image: url("pic.jpg");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: auto 100%;
 }
 .bg2 {
- /* background-color: #299DB6; #004c7d*/
-    background-image: linear-gradient(to top, white 0%, #004c7d 0%);
+  /* background-color: #299DB6; #004c7d*/
+  background-image: linear-gradient(to top, white 0%, #004c7d 0%);
 }
 #headerblob {
   position: absolute;
@@ -58,7 +60,6 @@ html, body {
     top: 100px;
     left: 0;
     width: 100%;
-
   }
   .imgme {
     float: none;
@@ -79,7 +80,7 @@ html, body {
   right: 0;
   padding: 5px 10px 5px 10px;
   margin: 10px;
-  border: 1px solid #FFF;
+  border: 1px solid #fff;
 }
 #topnav a {
   color: white;
@@ -88,12 +89,9 @@ html, body {
   text-decoration: none;
 }
 ul {
-  list-style: none;
+  list-style: disc;
   margin: 0;
   padding: 0;
-}
-li {
-  display: inline;
 }
 #topnav ul {
   font-size: 26px;
@@ -104,7 +102,7 @@ li {
 #timeline {
   font-size: 16px;
   font-weight: 300;
- /* background-color: #f7f7f7; */
+  /* background-color: #f7f7f7; */
 }
 @media (min-width: 768px) {
   .timelineitem:nth-child(odd) {
@@ -124,7 +122,7 @@ li {
     padding: 20px;
   }
   .timelineitem:nth-child(odd):before {
-   left: -8px;
+    left: -8px;
   }
   .timelineitem:nth-child(even):before {
     right: -8px;
@@ -159,7 +157,7 @@ li {
   font-size: 18px;
   font-weight: 400;
   margin-bottom: -5px;
-  color: rgb(132,0,0);
+  color: rgb(132, 0, 0);
 }
 .ttitle {
   font-size: 20px;
@@ -181,7 +179,7 @@ li {
   }
 }
 .thigh {
-   color: #0000cd;
+  color: #0000cd;
 }
 .quote {
   color: #777;
@@ -194,29 +192,53 @@ li {
   font-size: 28px;
 }
 h2 {
-  text-align: center;
-  font-weight: 300;
-  font-size: 50px;
-  padding: 40px 0px 60px;
+  margin-top: 12px;
+  font-weight: normal;
+  margin-bottom: 0px;
+}
+h3 {
+  margin-top: 6px;
+  font-size: small;
+  margin-bottom: 0px;
 }
 #sitefooter {
   height: 300px;
   margin-top: 200px;
-  background-color: #F1F3F4;
+  background-color: #f1f3f4;
 }
 hr.soft {
   border: 0;
   height: 1px;
-  background-image: -webkit-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.75), rgba(0,0,0,0));
-  background-image:    -moz-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.75), rgba(0,0,0,0));
-  background-image:     -ms-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.75), rgba(0,0,0,0));
-  background-image:      -o-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.75), rgba(0,0,0,0));
+  background-image: -webkit-linear-gradient(
+    left,
+    rgba(0, 0, 0, 0),
+    rgba(0, 0, 0, 0.75),
+    rgba(0, 0, 0, 0)
+  );
+  background-image: -moz-linear-gradient(
+    left,
+    rgba(0, 0, 0, 0),
+    rgba(0, 0, 0, 0.75),
+    rgba(0, 0, 0, 0)
+  );
+  background-image: -ms-linear-gradient(
+    left,
+    rgba(0, 0, 0, 0),
+    rgba(0, 0, 0, 0.75),
+    rgba(0, 0, 0, 0)
+  );
+  background-image: -o-linear-gradient(
+    left,
+    rgba(0, 0, 0, 0),
+    rgba(0, 0, 0, 0.75),
+    rgba(0, 0, 0, 0)
+  );
   padding: 0;
   margin: 0;
 }
 .pubt {
   font-size: 22px;
-  font-weight:400;
+  font-weight: 400;
   color: #000;
 }
 @media (max-width: 768px) {
@@ -230,7 +252,7 @@ hr.soft {
   }
 }
 .pubd {
-    text-align: justify;
+  text-align: justify;
   font-size: 18px;
   font-weight: 300;
 }
@@ -252,7 +274,7 @@ hr.soft {
   padding-top: 10px;
 }
 .publ li {
-  border: 1px solid #CCC;
+  border: 1px solid #ccc;
   padding: 5px;
   margin: 5px 2px;
   display: inline-block;
@@ -260,7 +282,7 @@ hr.soft {
 .pubwrap {
   padding-bottom: 20px;
   margin-bottom: 50px;
-  border-bottom: 1px solid #DDD;
+  border-bottom: 1px solid #ddd;
 }
 .pubwrap:last-child {
   border-bottom: none;
@@ -272,8 +294,8 @@ hr.soft {
   margin-bottom: 60px;
 }
 .pp img {
-  border: 3px solid #FFF;
-  box-shadow: #BBB 0px 0px 5px 0px;
+  border: 3px solid #fff;
+  box-shadow: #bbb 0px 0px 5px 0px;
 }
 .imgb {
   max-width: 300px;
@@ -300,7 +322,7 @@ hr.soft {
   display: none;
 }
 #showmoreprojects {
-  border: 1px solid #CCC;
+  border: 1px solid #ccc;
   padding: 10px;
   font-size: 24px;
   width: 200px;
