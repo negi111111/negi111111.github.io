@@ -32,6 +32,28 @@ redirect_from:
 1. **2023年度第5回レギュラー・ワークショップ「データ活用パターンによる未来シナリオ構想」**<br>
   一般社団法人日本社会イノベーションセンター(JSIC), 2023年9月(全5回)<br>
 
+## Talks
+
+1. **PandasAI is All You Need: Experience Interactive Data Analysis**<br>
+  PyCon APAC 2025, 2025年3月. [スライド](https://speakerdeck.com/negi111111/pandasai-is-all-you-need-experience-interactive-data-analysis)<br>
+  <u>Ryosuke Tanno</u>, Yo Nakamura  <br>
+
+2. **技術者生存戦略：時代に乗り遅れない技術者になるためには-複雑性ネットワークで考える技術者の成長戦略ダイナミクス-**<br>
+  NTT西日本グループ技術者交流会, 2024年12月. [グループ内なので資料非公開]()<br>
+  <u>丹野良介</u><br>  
+
+2. **ノーコードデータ分析ツールで体験する時系列データ分析超入門**<br>
+  PyCon mini 東海2024, 2024年11月. [スライド](https://speakerdeck.com/negi111111/nokododetafen-xi-turudeti-yan-surushi-xi-lie-detafen-xi-chao-ru-men)<br>
+  <u>丹野良介</u><br>
+
+1. **Re:PandasAI：生成AIがデータ分析業務にもたらすパラダイムシフト【増補改訂版】**<br>
+  PyCon JP2024, 2024年9月. [スライド](https://speakerdeck.com/negi111111/re-pandasai-sheng-cheng-aigadetafen-xi-ye-wu-nimotarasuparadaimusihuto-zeng-bu-gai-ding-ban)<br>
+  <u>丹野良介</u><br>
+  
+1. **PandasAI：生成AIがデータ分析業務にもたらすパラダイムシフト**<br>
+  PyCon Kyusyu KAGOSHIMA2024, 2024年5月. [スライド](https://speakerdeck.com/negi111111/pycon-kyusyu2024-dot-pptx-1)<br>
+  <u>丹野良介</u><br>
+
 ## Publications
 
 ### International Conferences
@@ -205,28 +227,6 @@ redirect_from:
 2. **CNNを用いた高速モバイル画像認識エンジンの自動生成フレームワーク**  
     画像ラボ, 2017年4月号  
     <u>丹野良介</u>, 柳井啓司
-
-## Talks
-
-1. **PandasAI is All You Need: Experience Interactive Data Analysis**<br>
-  PyCon APAC 2025, 2025年3月. [スライド](https://speakerdeck.com/negi111111/pandasai-is-all-you-need-experience-interactive-data-analysis)<br>
-  <u>Ryosuke Tanno</u>, Yo Nakamura  <br>
-
-2. **技術者生存戦略：時代に乗り遅れない技術者になるためには-複雑性ネットワークで考える技術者の成長戦略ダイナミクス-**<br>
-  NTT西日本グループ技術者交流会, 2024年12月. [グループ内なので資料非公開]()<br>
-  <u>丹野良介</u><br>  
-
-2. **ノーコードデータ分析ツールで体験する時系列データ分析超入門**<br>
-  PyCon mini 東海2024, 2024年11月. [スライド](https://speakerdeck.com/negi111111/nokododetafen-xi-turudeti-yan-surushi-xi-lie-detafen-xi-chao-ru-men)<br>
-  <u>丹野良介</u><br>
-
-1. **Re:PandasAI：生成AIがデータ分析業務にもたらすパラダイムシフト【増補改訂版】**<br>
-  PyCon JP2024, 2024年9月. [スライド](https://speakerdeck.com/negi111111/re-pandasai-sheng-cheng-aigadetafen-xi-ye-wu-nimotarasuparadaimusihuto-zeng-bu-gai-ding-ban)<br>
-  <u>丹野良介</u><br>
-  
-1. **PandasAI：生成AIがデータ分析業務にもたらすパラダイムシフト**<br>
-  PyCon Kyusyu KAGOSHIMA2024, 2024年5月. [スライド](https://speakerdeck.com/negi111111/pycon-kyusyu2024-dot-pptx-1)<br>
-  <u>丹野良介</u><br>
 
 ## Patents
 
