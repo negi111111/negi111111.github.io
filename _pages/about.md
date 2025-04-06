@@ -11,12 +11,12 @@ redirect_from:
 
 - **2018年4月～現在**  
   NTTコミュニケーションズ株式会社 <br>
-  Advanced Specialist / Software Engineer Research Development
+  Advanced Specialist / Software Engineer / Research Engineer
 
 ## Education
 
 - **2016年 - 2018年**  
-  電気通信大学 / 修士(工学)
+  電気通信大学 大学院情報理工学研究科 / 修士(工学)
 
 - **2012年 - 2016年**  
   電気通信大学 / 学士(工学)
@@ -38,11 +38,7 @@ redirect_from:
   PyCon APAC 2025, 2025年3月. [スライド](https://speakerdeck.com/negi111111/pandasai-is-all-you-need-experience-interactive-data-analysis)<br>
   <u>Ryosuke Tanno</u>, Yo Nakamura  <br>
 
-2. **技術者生存戦略：時代に乗り遅れない技術者になるためには-複雑性ネットワークで考える技術者の成長戦略ダイナミクス-**<br>
-  NTT西日本グループ技術者交流会, 2024年12月. [グループ内なので資料非公開]()<br>
-  <u>丹野良介</u><br>  
-
-2. **ノーコードデータ分析ツールで体験する時系列データ分析超入門**<br>
+1. **ノーコードデータ分析ツールで体験する時系列データ分析超入門**<br>
   PyCon mini 東海2024, 2024年11月. [スライド](https://speakerdeck.com/negi111111/nokododetafen-xi-turudeti-yan-surushi-xi-lie-detafen-xi-chao-ru-men)<br>
   <u>丹野良介</u><br>
 
@@ -56,73 +52,19 @@ redirect_from:
 
 ## Publications
 
-### International Conferences
+### Technical Books
 
-1. **L1-Norm Gradient Penalty for Noise Reduction of Attribution Maps**  
-   Proc. of IEEE CVPR Workshop on Explainable AI (Long Beach, USA), 2019年6月 (poster)  
-   Keisuke Kiritoshi, <u>Ryosuke Tanno</u>, Tomonori Izumitani
+1. **マルチモーダル深層学習によるドライブレコーダーデータの分類**  
+    映像情報メディア学会誌, 2020年1月号  
+    <u>丹野良介</u>
 
-2. **Image-Based Estimation of Real Food Size for Accurate Food Calorie Estimation**  
-   Proc. of IEEE International Conference on Multimedia Information Processing and Retrieval (MIPR) (San Jose, USA), 2019年3月 (oral)  
-   Takumi Ege, Yoshikazu Ando, <u>Ryosuke Tanno</u>, Wataru Shimoda, Keiji Yanai
-
-3. **FoodChangeLens: CNN-based Food Transformation on HoloLens**  
-   Proc. of International Workshop on Interface and Experience Design with AI for VR/AR (DAIVAR) (Taichung, Taiwan), 2018年12月 (demo)  
-   Shu Naritomi, <u>Ryosuke Tanno</u>, Takumi Ege, Keiji Yanai
-
-4. **Real-Time Image Classification and Transformation Apps on iOS by "Chainer2MPSNNGraph"**  
-   Proc. of NIPS WS on Machine Learning on the Phone and other Consumer Devices (MLPCD) (Montreal, Canada), 2018年12月 (demo)  
-   Yuki Izumi, Daichi Horita, <u>Ryosuke Tanno</u>, Keiji Yanai
-
-5. **AR DeepCalorieCam V2: Food Calorie Estimation with CNN and AR-based Actual Size Estimation**  
-   ACM Symposium on Virtual Reality Software and Technology (VRST) (Tokyo, Japan), 2018年11月 (demo)  
-   <u>Ryosuke Tanno</u>, Takumi Ege, Keiji Yanai
-
-6. **Magical Rice Bowl: Real-time Food Category Changer**  
-   Proc. of ACM Multimedia (ACM MM) (Seoul, Korea), 2018年10月 (demo)  
-   <u>Ryosuke Tanno</u>, Daichi Horita, Wataru Shimoda, Keiji Yanai
-
-7. **Food Category Transfer with Conditional Cycle GAN and a Large-scale Food Image Dataset**  
-   Proc. of International Workshop on Multimedia Assisted Dietary Management (MADiMa) (Stockholm, Sweden), 2018年7月 (oral)  
-   Daichi Horita, <u>Ryosuke Tanno</u>, Wataru Shimoda, Keiji Yanai
-
-8. **AR DeepCalorieCam: An iOS App for Food Calorie Estimation with Augmented Reality**  
-   Proc. of the International Multimedia Modeling Conference (MMM) (Bangkok, Thailand), 2018年2月 (poster)  
-   <u>Ryosuke Tanno</u>, Keiji Yanai
-
-9. **DeepCalorieCam: An iOS App for Dish Detection and Calorie Estimation**  
-   Proc. of ICIAP International Workshops on Multimedia Assisted Dietary Management (MADiMa) (Catania, Italy), 2017年9月 (demo)  
-   <u>Ryosuke Tanno</u>, Takumi Ege, Keiji Yanai
-
-10. **Conditional Fast Style Transfer Network**  
-    Proc. of ACM International Conference on Multimedia Retrieval (ICMR) (Bucharest, Romania), 2017年6月 (poster)  
-    Keiji Yanai, <u>Ryosuke Tanno</u>
-
-11. **DeepStyleCam: A Real-time Style Transfer App on iOS**  
-    Proc. of International Conference on Multimedia Modeling (MMM) (Reykjavik, Iceland), 2017年1月 (demo, Best Demonstration Award)  
-    <u>Ryosuke Tanno</u>, Keiji Yanai
-
-12. **Caffe2C: A Framework for Easy Implementation of CNN-based Mobile Applications**  
-    International Workshop On Mobile Ubiquitous Systems, Infrastructures, Communications, And AppLications (MUSICAL 2016) (Hiroshima, Japan), 2016年11月 (oral)  
-    <u>Ryosuke Tanno</u>, Keiji Yanai
-
-13. **DeepXCam: Very Fast CNN-based Mobile Applications: Multiple Style Transfer and Object Recognition**  
-    Proc. of the European Conference on Computer Vision (ECCV) (Amsterdam, Netherlands), 2016年10月 (demo)  
-    <u>Ryosuke Tanno</u>, Wataru Shimoda, Keiji Yanai
-
-14. **DeepFoodCam: A DCNN-based Real-time Mobile Food Recognition System**  
-    Proc. of ACM MM Workshop on Multimedia Assisted Dietary Management (MADiMa) (Amsterdam, Netherlands), 2016年10月 (demo)  
-    <u>Ryosuke Tanno</u>, Koichi Okamoto, Keiji Yanai
-
-15. **Efficient Mobile Implementation of A CNN-based Object Recognition System**  
-    Proc. of ACM Multimedia (ACM MM) (Amsterdam, Netherlands), 2016年10月 (poster)  
-    Keiji Yanai, <u>Ryosuke Tanno</u>, Koichi Okamoto
-
----
+2. **CNNを用いた高速モバイル画像認識エンジンの自動生成フレームワーク**  
+    画像ラボ, 2017年4月号  
+    <u>丹野良介</u>, 柳井啓司
 
 ### Domestic Conferences
 
-1. **大規模言語モデルを活用したノーコードツールによるAI人材育成での学習体験の向上**  
+1. **大規模言語モデルを活用したノーコードツールによ$$るAI人材育成での学習体験の向上**  
    第16回データ工学と情報マネジメントに関するフォーラム(DEIM), 2024年3月 (口頭・ポスター)  
    <u>丹野良介</u>, 坂本悠記, 中村耀, 杉本海人, 切通恵介
 
@@ -218,15 +160,67 @@ redirect_from:
     第8回データ工学と情報マネジメントに関するフォーラム(DEIM), 2016年3月 (口頭・ポスター, 優秀インタラクティブ賞, 学生プレゼンテーション賞)  
     <u>丹野良介</u>, 柳井啓司
 
-### Technical Books
+### International Conferences
 
-1. **マルチモーダル深層学習によるドライブレコーダーデータの分類**  
-    映像情報メディア学会誌, 2020年1月号  
-    <u>丹野良介</u>
+1. **L1-Norm Gradient Penalty for Noise Reduction of Attribution Maps**  
+   Proc. of IEEE CVPR Workshop on Explainable AI (Long Beach, USA), 2019年6月 (poster)  
+   Keisuke Kiritoshi, <u>Ryosuke Tanno</u>, Tomonori Izumitani
 
-2. **CNNを用いた高速モバイル画像認識エンジンの自動生成フレームワーク**  
-    画像ラボ, 2017年4月号  
-    <u>丹野良介</u>, 柳井啓司
+2. **Image-Based Estimation of Real Food Size for Accurate Food Calorie Estimation**  
+   Proc. of IEEE International Conference on Multimedia Information Processing and Retrieval (MIPR) (San Jose, USA), 2019年3月 (oral)  
+   Takumi Ege, Yoshikazu Ando, <u>Ryosuke Tanno</u>, Wataru Shimoda, Keiji Yanai
+
+3. **FoodChangeLens: CNN-based Food Transformation on HoloLens**  
+   Proc. of International Workshop on Interface and Experience Design with AI for VR/AR (DAIVAR) (Taichung, Taiwan), 2018年12月 (demo)  
+   Shu Naritomi, <u>Ryosuke Tanno</u>, Takumi Ege, Keiji Yanai
+
+4. **Real-Time Image Classification and Transformation Apps on iOS by "Chainer2MPSNNGraph"**  
+   Proc. of NIPS WS on Machine Learning on the Phone and other Consumer Devices (MLPCD) (Montreal, Canada), 2018年12月 (demo)  
+   Yuki Izumi, Daichi Horita, <u>Ryosuke Tanno</u>, Keiji Yanai
+
+5. **AR DeepCalorieCam V2: Food Calorie Estimation with CNN and AR-based Actual Size Estimation**  
+   ACM Symposium on Virtual Reality Software and Technology (VRST) (Tokyo, Japan), 2018年11月 (demo)  
+   <u>Ryosuke Tanno</u>, Takumi Ege, Keiji Yanai
+
+6. **Magical Rice Bowl: Real-time Food Category Changer**  
+   Proc. of ACM Multimedia (ACM MM) (Seoul, Korea), 2018年10月 (demo)  
+   <u>Ryosuke Tanno</u>, Daichi Horita, Wataru Shimoda, Keiji Yanai
+
+7. **Food Category Transfer with Conditional Cycle GAN and a Large-scale Food Image Dataset**  
+   Proc. of International Workshop on Multimedia Assisted Dietary Management (MADiMa) (Stockholm, Sweden), 2018年7月 (oral)  
+   Daichi Horita, <u>Ryosuke Tanno</u>, Wataru Shimoda, Keiji Yanai
+
+8. **AR DeepCalorieCam: An iOS App for Food Calorie Estimation with Augmented Reality**  
+   Proc. of the International Multimedia Modeling Conference (MMM) (Bangkok, Thailand), 2018年2月 (poster)  
+   <u>Ryosuke Tanno</u>, Keiji Yanai
+
+9. **DeepCalorieCam: An iOS App for Dish Detection and Calorie Estimation**  
+   Proc. of ICIAP International Workshops on Multimedia Assisted Dietary Management (MADiMa) (Catania, Italy), 2017年9月 (demo)  
+   <u>Ryosuke Tanno</u>, Takumi Ege, Keiji Yanai
+
+10. **Conditional Fast Style Transfer Network**  
+    Proc. of ACM International Conference on Multimedia Retrieval (ICMR) (Bucharest, Romania), 2017年6月 (poster)  
+    Keiji Yanai, <u>Ryosuke Tanno</u>
+
+11. **DeepStyleCam: A Real-time Style Transfer App on iOS**  
+    Proc. of International Conference on Multimedia Modeling (MMM) (Reykjavik, Iceland), 2017年1月 (demo, Best Demonstration Award)  
+    <u>Ryosuke Tanno</u>, Keiji Yanai
+
+12. **Caffe2C: A Framework for Easy Implementation of CNN-based Mobile Applications**  
+    International Workshop On Mobile Ubiquitous Systems, Infrastructures, Communications, And AppLications (MUSICAL 2016) (Hiroshima, Japan), 2016年11月 (oral)  
+    <u>Ryosuke Tanno</u>, Keiji Yanai
+
+13. **DeepXCam: Very Fast CNN-based Mobile Applications: Multiple Style Transfer and Object Recognition**  
+    Proc. of the European Conference on Computer Vision (ECCV) (Amsterdam, Netherlands), 2016年10月 (demo)  
+    <u>Ryosuke Tanno</u>, Wataru Shimoda, Keiji Yanai
+
+14. **DeepFoodCam: A DCNN-based Real-time Mobile Food Recognition System**  
+    Proc. of ACM MM Workshop on Multimedia Assisted Dietary Management (MADiMa) (Amsterdam, Netherlands), 2016年10月 (demo)  
+    <u>Ryosuke Tanno</u>, Koichi Okamoto, Keiji Yanai
+
+15. **Efficient Mobile Implementation of A CNN-based Object Recognition System**  
+    Proc. of ACM Multimedia (ACM MM) (Amsterdam, Netherlands), 2016年10月 (poster)  
+    Keiji Yanai, <u>Ryosuke Tanno</u>, Koichi Okamoto
 
 ## Patents
 
